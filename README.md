@@ -65,9 +65,6 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=smorenolasa1&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smorenolasa1&layout=compact&theme=radical)
 
-🔥 **Contribution Streak:**  
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=smorenolasa1&theme=radical)
-
 👀 **Profile Views:**  
 ![Profile Views](https://komarev.com/ghpvc/?username=smorenolasa1&color=blue)
 
